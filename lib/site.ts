@@ -59,8 +59,8 @@ export const siteMetadata: Metadata = {
 };
 
 export const socialLinks = {
-  linkedin: "https://www.linkedin.com/in/umer-khalil",
-  email: "mailto:umer.khalil.dev@gmail.com"
+  linkedin: "https://linkedin.com/in/umer-khalil-194b5020a",
+  email: "mailto:chhumerkhalil565@gmail.com"
 };
 
 export const navLinks = [
@@ -71,24 +71,38 @@ export const navLinks = [
 
 export const experiences = [
   {
-    company: "Freelance / Contract",
-    period: "2023 - Present",
-    title: "Senior Unity Developer",
+    company: "Triminds Studio",
+    period: "Aug 2021 - Nov 2023",
+    title: "2D Unity Developer",
     summary:
-      "Delivering gameplay systems, UI flows, and optimization work for mobile and PC projects with a focus on maintainable C# architecture."
+      "Worked on 2D Unity game development with a focus on gameplay features, UI systems, and production-ready mobile implementation."
   },
   {
-    company: "Independent Game Studio",
-    period: "2021 - 2023",
-    title: "Unity Game Developer",
+    company: "Game Tech Studios",
+    period: "Dec 2023 - Sep 2024",
+    title: "2D Unity Developer",
     summary:
-      "Built production features, integrated SDKs, and collaborated with designers and artists to ship polished gameplay content."
+      "Built and maintained 2D Unity projects, collaborating on gameplay logic, polish, and feature delivery across mobile game pipelines."
   },
   {
-    company: "Early Career Projects",
-    period: "2020 - 2021",
-    title: "Junior Unity Developer",
+    company: "Hawks Studio",
+    period: "Sep 2024 - Jun 2025",
+    title: "2D/3D Unity Developer",
     summary:
-      "Focused on gameplay prototyping, bug fixing, and learning reliable engineering practices for live game development."
+      "Contributed to both 2D and 3D Unity game development, delivering gameplay systems, scene logic, and player-facing features."
+  },
+  {
+    company: "Freelance",
+    period: "Jul 2025 - Oct 2025",
+    title: "Freelance Unity Developer",
+    summary:
+      "Delivered freelance Unity work for game features, mobile-focused implementation, and practical gameplay iteration across client projects."
+  },
+  {
+    company: "Survival Tech Valley Pvt Ltd",
+    period: "Nov 2025 - Present",
+    title: "2D/3D Unity Developer",
+    summary:
+      "Working on 2D and 3D Unity development with emphasis on production delivery, gameplay implementation, and maintainable C# workflows."
   }
 ];

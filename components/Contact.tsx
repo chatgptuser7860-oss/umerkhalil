@@ -26,7 +26,7 @@ export function Contact({ standalone = false }: ContactProps) {
       `Name: ${name}\nEmail: ${email}\nCompany: ${company || "N/A"}\n\n${message}`
     );
 
-    window.location.href = `mailto:umer.khalil.dev@gmail.com?subject=${subject}&body=${body}`;
+    window.location.href = `${socialLinks.email}?subject=${subject}&body=${body}`;
     setSubmitted(true);
     event.currentTarget.reset();
   };
@@ -60,7 +60,7 @@ export function Contact({ standalone = false }: ContactProps) {
               className="mt-3 inline-flex items-center gap-2 text-lg font-medium text-white"
             >
               <Mail size={18} className="text-fuchsia-300" />
-              umer.khalil.dev@gmail.com
+              chhumerkhalil565@gmail.com
             </a>
           </div>
         </motion.div>
