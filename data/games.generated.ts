@@ -18,7 +18,7 @@ export const generatedGameAssets: GeneratedGameAssets[] = [
       "/images/games/skincare-asmr-spa/store/screenshot-3.jpg",
       "/images/games/skincare-asmr-spa/store/screenshot-4.jpg"
     ],
-    "syncedAt": "2026-03-30T07:13:48.761Z"
+    "syncedAt": "2026-04-06T07:15:40.394Z"
   },
   {
     "slug": "shuriken-slice",
@@ -30,7 +30,7 @@ export const generatedGameAssets: GeneratedGameAssets[] = [
       "/images/games/shuriken-slice/store/screenshot-3.jpg",
       "/images/games/shuriken-slice/store/screenshot-4.jpg"
     ],
-    "syncedAt": "2026-03-30T07:13:50.140Z"
+    "syncedAt": "2026-04-06T07:15:41.320Z"
   },
   {
     "slug": "scary-survival-house",
@@ -42,7 +42,7 @@ export const generatedGameAssets: GeneratedGameAssets[] = [
       "/images/games/scary-survival-house/store/screenshot-3.jpg",
       "/images/games/scary-survival-house/store/screenshot-4.jpg"
     ],
-    "syncedAt": "2026-03-30T07:13:51.452Z"
+    "syncedAt": "2026-04-06T07:15:42.491Z"
   },
   {
     "slug": "fire-shooting-battle-royale",
@@ -54,7 +54,7 @@ export const generatedGameAssets: GeneratedGameAssets[] = [
       "/images/games/fire-shooting-battle-royale/store/screenshot-3.jpg",
       "/images/games/fire-shooting-battle-royale/store/screenshot-4.jpg"
     ],
-    "syncedAt": "2026-03-30T07:13:53.154Z"
+    "syncedAt": "2026-04-06T07:15:43.908Z"
   },
   {
     "slug": "harvest-crop-farm-town",
@@ -66,6 +66,6 @@ export const generatedGameAssets: GeneratedGameAssets[] = [
       "/images/games/harvest-crop-farm-town/store/screenshot-3.jpg",
       "/images/games/harvest-crop-farm-town/store/screenshot-4.jpg"
     ],
-    "syncedAt": "2026-03-30T07:13:54.738Z"
+    "syncedAt": "2026-04-06T07:15:45.640Z"
   }
 ];
